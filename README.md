@@ -1,4 +1,4 @@
-# Hi there, I'm Linux - aka **Krossmanzs** 👋 
+# Hi there, I'm Ferdana - aka **Hopeless** 👋 
 
 ## 👨 **About Me**
 My name **Ferdana Al-Hakim**. Born in a smoll city, Lubuk Basung, West Sumatera, Indonesia. I'm currently a college student at [ITERA](https://www.itera.ac.id/).
