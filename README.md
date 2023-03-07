@@ -21,4 +21,3 @@ My name **Ferdana Al-Hakim**. Born in a smoll city, Lubuk Basung, West Sumatera,
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=krossmanzs&layout=default&theme=tokyonight)](https://github-readme-stats.vercel.app/api/top-langs/?username=krossmanzs&layout=default&theme=tokyonight)
