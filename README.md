@@ -1,6 +1,6 @@
-# Hi there, I'm Ferdana Al Hakim! 👋
+# Hi there, I'm Ferdana Al Hakim! 👋  
 
-Welcome to my GitHub profile! I'm a **tech enthusiast** passionate about programming, data science, and exploring new technologies. Check out my projects, tools, and let's connect! 🚀  
+Welcome to my GitHub profile! I'm a **tech enthusiast** passionate about **Machine Learning**, **Data Analysis**, and **Web Development**. I enjoy exploring data, building models, and creating meaningful solutions with code. Dive into my repositories and see the magic I build! 🚀  
 
 ![Profile Views](https://komarev.com/ghpvc/?username=luciferdana&style=flat-square&color=brightgreen)
 
